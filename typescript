@@ -1,0 +1,17 @@
+Script started on 2021-01-04 13:06:43+08:00 [TERM="xterm" TTY="/dev/pty0" COLUMNS="80" LINES="24"]
+]0;~/checkpoint 4
+[32mUSER@LAPTOP-6TT6RA2U [33m~/checkpoint 4[0m
+$ make clean
+del *.hex *.ihx *.lnk *.lst *.map *.mem *.rel *.rst *.sym *.asm *.lk
+/bin/sh: del: command not found
+make: *** [Makefile:25: clean] Error 127
+]0;~/checkpoint 4
+[32mUSER@LAPTOP-6TT6RA2U [33m~/checkpoint 4[0m
+$ make
+make: Nothing to be done for 'all'.
+]0;~/checkpoint 4
+[32mUSER@LAPTOP-6TT6RA2U [33m~/checkpoint 4[0m
+$ exit
+exit
+
+Script done on 2021-01-04 13:06:57+08:00 [COMMAND_EXIT_CODE="0"]
